@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212235415136",
+    "project_id": "xicht-webrtc",
+    "storage_bucket": "xicht-webrtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212235415136:android:3b62412d306f478bfc9d05",
+        "android_client_info": {
+          "package_name": "myapp.webrtc_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212235415136-376idli74osvjo0145ejq9a5j89k9dju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuvAaqpCMSqhyN-DsVZ8lzVUk758Lxr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212235415136-376idli74osvjo0145ejq9a5j89k9dju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
